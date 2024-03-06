@@ -1,9 +1,9 @@
 
-# Olá, eu sou a maristela! 👋
+# Olá, eu sou a ivye! 👋
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa .
+Eu sou uma pessoa. Definitivamente uma pessoa.
 
 
 
