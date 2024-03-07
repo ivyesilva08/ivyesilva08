@@ -1,8 +1,6 @@
 <!-- Presentation -->
 <h1 align= left>Ola galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, Eu sou a Ivye</h1>
 
-- 🎓 Sou aluna no projeto favela Ware.
-
 - 👨‍🏫 Eu participo do projeto chamado favela ware, Uma iniciativa para treinar jovens programadores de 16 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique aqui</a>
 . 
 
@@ -28,22 +26,6 @@
 </div>
 
 
-
-# Olá, eu sou a ivye! 👋
-
-
-## 🚀 Sobre mim
-Eu sou uma pessoa. Definitivamente uma pessoa.
-
-
-
-
-
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
 
