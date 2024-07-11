@@ -2,7 +2,7 @@
 <h1 align= left>Ola galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, Eu sou a Ivye</h1>
 
 - 👨‍🏫 Eu participo do projeto chamado favela ware, Uma iniciativa para treinar jovens programadores de 16 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique aqui</a>
-. ✈ inglêse espanhol fluentes
+. ✈ inglês e espanhol fluentes
   
 
 <br><br>
